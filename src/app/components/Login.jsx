@@ -5,11 +5,10 @@ const LoginComponent = () => {
     return <div>
         <h2>Please Login!</h2>
         <form>
-            <input type='text' placeholder="username" name='username' defaultValue='Dev'/>
+            <input type='text' placeholder='username' name='username' defaultValue='Dev'/>
             <input type='password' placeholder='password' name='password' defaultValue=""/>
             <button type="submit">Login</button>
         </form>
-
     </div>
 };
 
