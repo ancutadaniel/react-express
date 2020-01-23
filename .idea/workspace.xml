@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7264f3f-457e-4ac9-bad4-4855bc5ff1ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/store/sagas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store/sagas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/connect-db.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/connect-db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="f7264f3f-457e-4ac9-bad4-4855bc5ff1ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +54,7 @@
       <workItem from="1579772332296" duration="623000" />
       <workItem from="1579773249083" duration="609000" />
       <workItem from="1579773974188" duration="7466000" />
+      <workItem from="1579788839474" duration="277000" />
     </task>
     <servers />
   </component>
